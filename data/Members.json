@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "name": "Hoàng Thụy",
+        "nickname": "Nam thần",
+        "avatar": "",
+        "gen": 10,
+        "studentId": "JS010001",
+        "slug": "JS010001_hoang_thuy",
+        "details": ""
+    },
+    {
+        "id" : 2,
+        "name": "Khổng Hồng Anh",
+        "nickname": "Tiểu Khổng",
+        "avatar": "",
+        "gen": 10,
+        "studentId": "JS010002",
+        "slug": "JS010002_khong_hong_anh",
+        "details": ""
+    },
+    {
+        "id" : 3,
+        "name": "Đỗ Phú Lộc",
+        "nickname": "Luộc Đỗ",
+        "avatar": "",
+        "gen": 10,
+        "studentId": "JS010003",
+        "slug": "JS010003_do_phu_loc",
+        "details": ""
+    },
+    {
+        "id" : 4,
+        "name": "Trần Quốc Khoa",
+        "nickname": "",
+        "avatar": "",
+        "gen": 10,
+        "studentId": "JS010004",
+        "slug": "JS010004_tran_quoc_khoa",
+        "details": ""
+    },
+    {
+        "id" : 5,
+        "name": "Dương Tú",
+        "nickname": "Single Handed :v",
+        "avatar": "",
+        "gen": 10,
+        "studentId": "JS010005",
+        "slug": "JS010005_duong_tu",
+        "details": ""
+    }
+]    

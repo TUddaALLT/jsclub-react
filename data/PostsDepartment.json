@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "department": "Ban Chuyên Môn",
+      "img": [
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304611/JS_CHALLENGE/others/banchuyenmonimg1_twvcrm.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304610/JS_CHALLENGE/others/banchuyenmonimg2_qeh0ch.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304610/JS_CHALLENGE/others/js14_g0vigq.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304609/JS_CHALLENGE/others/js13_juzw0x.webp"
+      ],
+      "intro": "🔦 Những người được cho là “đầu não”, là những người trực tiếp giám sát và triển khai những thông tin mang tính học thuật cao không ai khác chính là ban Chuyên môn của JS. 🛠 Mang trong mình trọng trách giữ gìn giá trị “cốt lõi” của một CLB học thuật, người ban Chuyên môn luôn luôn sáng tạo và đổi mới qua các buổi techtalk, các lớp training hay thậm chí cả những cuộc thi học thuật nữa.🛠 Nhiều người cho rằng “Thành viên ban Chuyên môn khô khan lắm!” nhưng điều đó không hề đúng khi ở JS nha!⚔ Trên các sàn đấu học thuật, họ có thể là những chiến binh mạnh mẽ, lạnh lùng. Tuy nhiên, khi về với mái nhà JS, họ là những người anh em nhiệt tình, vui tính. Hơn nữa, những người thầy cô này cũng luôn sẵn lòng giúp đỡ các thành viên trong CLB, không chỉ với các vấn đề chuyên môn mà cả kinh nghiệm trong cuộc sống.👘 Đặc biệt, ban Chuyên môn còn có sự xuất hiện của rất nhiều “bóng hồng” vừa có tài lại vừa có sắc, đem lại những sắc màu đậm chất riêng cho ban nữa đó|🛠 Vì tính “đặc trưng” cũng như “độ khủng của ban”, có lẽ nhiều bạn vẫn còn băn khoăn về trình độ của bản thân. Nhưng hãy cứ tự tin vào bản thân mình nếu bản thân nhận thấy mình có những yếu tố sau:▪️ Trách nhiệm, nhiệt huyết với JS.▪️ Có mong muốn chia sẻ kiến thức. ▪️ Có khả năng tự học tốt.▪️ Có tư duy, kiến thức lập trình hoặc tiếng Nhật cơ bản."
+    },
+    {
+      "department": "Ban Văn Hóa",
+      "img": [
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304612/JS_CHALLENGE/others/banvanhoaimg1_znq1tq.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304612/JS_CHALLENGE/others/banvanhoaimg2_ni7ed8.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304610/JS_CHALLENGE/others/js12_ovu8io.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304610/JS_CHALLENGE/others/js11_ubzt4a.webp"
+      ],
+      "intro": " Một trong những nhân tố góp phần vô cùng to lớn trong quá trình hình thành và phát triển nên JS đó chính là ban Văn hóa. Vì vậy, chẳng phải tự nhiên mà Văn hóa được mệnh danh là “linh hồn” của JS.Không có cuộc vui nào mà vắng mặt các thành viên phân ban này. Đặc biệt, họ còn là người rất đa tài, đủ các yếu tố cầm - kỳ - thi - họa, hứa hẹn sẽ tiếp lửa và mang đến sự tích cực cho các JSers. Nếu bạn nghĩ rằng: “Vào Văn hóa chỉ ăn chơi thôi chứ có làm gì đâu” thì không hề, chúng mình còn học hỏi được rất nhiều điều bổ ích đó! Bật mí nhỏ với bạn, danh hiệu “Cóc vàng” của JS cũng có sự góp mặt đáng kể của người Văn hóa đó nha.Tham gia ban Văn hóa bạn sẽ có cơ hội: ▪️ Thỏa sức sáng tạo qua các hoạt động sinh hoạt. ▪️ Trở thành ban tổ chức và trực tiếp chạy các sự kiện của JS.▪️ Mở rộng mối quan hệ, gắn kết và giao lưu với mọi người.▪️ Nâng cao kỹ năng làm việc nhóm."
+    },
+    {
+      "department": "Ban Nội Dung",
+      "img": [
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304611/JS_CHALLENGE/others/bannoidungimg1_pv29ka.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304611/JS_CHALLENGE/others/bannoidungimg2_bs5brr.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304609/JS_CHALLENGE/others/js9_inar3m.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304609/JS_CHALLENGE/others/js10_osxfmd.webp"
+      ],
+      "intro": "💡 Dựa trên mô hình Agile - một phương pháp phát triển phần mềm, bước đầu tiên cần làm là Brainstorm. Công việc này đòi hỏi tư duy ý tưởng sáng tạo nhưng cũng phải thật chu đáo, cẩn thận. Không ai khác, Ban Nội dung là những “thủ lĩnh” trong công việc này.💡 Ban Nội dung chính là một phần cấu tạo nên JS với nhiệm vụ lên nội dung, lên ý tưởng, concept cho các sự kiện. Làm việc ở ban Nội dung, bạn còn cần có một tinh thần vô cùng trách nhiệm, kỹ năng làm việc nhóm vì họ thường xuyên phải phối hợp với các phân ban khác để làm nên một chương trình thành công.💡 Vậy khi trở thành một phần của ban Nội dung, bạn nhận được những gì?▪️ Nâng cao khả năng tư duy logic, chu toàn trong công việc. ▪️ Nhận được nhiều kinh nghiệm làm việc nhóm.▪️ Hiểu được cách vận hành sự kiện học thuật cũng như sự kiện văn hóa."
+    },
+    {
+      "department": "Ban Đối Ngoại",
+      "img": [
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304611/JS_CHALLENGE/others/bandoingoaiimg1_a3bn0u.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304611/JS_CHALLENGE/others/bandoingoaiimg2_npmyu1.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304609/JS_CHALLENGE/others/js8_e6u5ya.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304608/JS_CHALLENGE/others/js7_ymnz8p.webp"
+      ],
+      "intro": "🤝 Để đảm bảo được chất lượng các sản phẩm cũng như mối quan hệ của JS, chúng ta phải kể đến công sức vô cùng to lớn của các thành viên ban Đối ngoại.🤝 “Khéo léo”, “nhanh nhạy” và “hoạt bát” là những tính từ khi nhắc đến con người của Đối ngoại. Nếu ban Văn hóa là sợi dây gắn kết thành viên trong JS thì Đối ngoại chính là cầu nối JS với các CLB cũng như tổ chức trong và ngoài phạm vi FPT. Chính vì vậy, đây cũng là phân ban hội tụ rất nhiều những gương mặt sáng giá với visual cực đỉnh của JS.🤝Hãy cùng chúng mình điểm qua một số giá trị vô cùng hữu ích mà các bạn sẽ nhận được với vai trò của người Đối Ngoại nhé: ▪️ Nâng cao kỹ năng giao tiếp cũng như khả năng thuyết phục, đàm phán.▪️ Gặp gỡ, tham gia các sự kiện trong và ngoài JS.▪️ Học cách quản lý chi tiêu và kỹ năng viết mail.▪️ Đại diện trực tiếp kết nối và làm việc với các doanh nghiệp, công ty lớn trong khu vực."
+    },
+    {
+      "department": "Ban Truyền Thông",
+      "img": [
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304611/JS_CHALLENGE/others/bantruyenthongimg1_fj8g1p.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304611/JS_CHALLENGE/others/bantruyenthongimg2_ms4cyn.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304609/JS_CHALLENGE/others/js6_wghpzm.webp",
+        "https://res.cloudinary.com/djav5udlk/image/upload/v1648304608/JS_CHALLENGE/others/js5_imqmjp.webp"
+      ],
+      "intro": "️ Nắm giữ vai trò tạo nên giao diện và hình ảnh chính, ban Truyền thông đang ngày càng khẳng định được tầm quan trọng của mình ở JSVì đặc thù đòi hỏi sự sáng tạo, các thành viên ở ban Truyền thông luôn không ngừng tìm tòi và “liều lĩnh” thử sức với các concept khác nhau. Với 3 mảng chính: viết bài, thiết kế và media, bạn có thể tha hồ lựa chọn và nâng cao kiến thức của bản thân trong từng vị trí ở phân ban này. Đặc biệt, ban Truyền thông còn có sự góp mặt của rất nhiều các bạn học chuyên ngành khác Công nghệ thông tin - điều làm nên sự đa dạng và chất riêng của ban Truyền thông JS. Đây cũng là cơ hội để bạn học hỏi từ những chuyên ngành khác đó. Đến với ban Truyền thông, bạn sẽ được: Học hỏi những kỹ năng chạy deadline siêu đỉnh từ các anh chị và các bạn trong ban.Thử những thứ mới lạ và nâng cao thẩm mỹ của bản thân.Training thêm các kỹ năng viết bài, thiết kế, media.Có thêm những chiến hữu sẵn sàng cùng bạn vượt qua deadline mọi lúc và mọi nơi."
+    }
+  ]
+}
